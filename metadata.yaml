@@ -1,0 +1,31 @@
+_repo: The-Edda-Volume-1--13-Popular-Studies-in-Mythology-Romance-and-Folklore-No.-12_13007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Faraday, L. Winifred
+    aliases:
+    - Faraday, Lucy Winifred
+    - Faraday, Winifred
+    birthdate: 1872
+    gutenberg_agent_id: '4774'
+    url: http://www.gutenberg.org/2009/agents/4774
+description: ''
+gutenberg_bookshelf:
+- Paganism
+- Mythology
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13007'
+  lccn: 03000391
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Mythology, Norse'
+- GITenberg
+title: "The Edda, Volume 1\r\nThe Divine Mythology of the North\r\nPopular Studies\
+  \ in Mythology, Romance, and Folklore, No. 12"
+url: http://www.gutenberg.org/ebooks/13007
